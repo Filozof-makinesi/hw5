@@ -1,0 +1,27 @@
+body {
+	background-image: url("../assets/bilim.jpg") ;
+	
+	b-webkit-background-size: cover;
+
+	-moz-background-size: cover;
+
+	-o-background-size: cover;
+
+	background-size: cover;
+}
+
+.col-md-8, .col-md-4, .col-md-2, .col-md-6 {
+	margin-top: 1px;
+}
+
+#timer {
+	margin-top: 5px;
+}
+
+h2, h3 {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	
+	
+}
+
